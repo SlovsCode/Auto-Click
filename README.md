@@ -2,6 +2,7 @@
 In this code there will be an Auto click code as expecting using the modules pyautogui and keyboard
 # Installations for pyautogui and keyboard
 pip install pyautogui
+
 pip install keyboard
 # Practicality
 This code isnt very practical unless you want to use for a sort of afk farming game or minecraft pvp. Other than that its just a fun thing to use.
