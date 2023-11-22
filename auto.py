@@ -2,12 +2,15 @@ import pyautogui
 import keyboard
 from time import sleep
 
+#function for the actual autoclick
+
 def auto():
     while True:
         keyboard.wait('b')
         while not keyboard.is_pressed('n'):
             pyautogui.click()
 
+#cool user interface, may delete if wanted
 sleep(1)
 print("      .__                       .__  .__        __                 ")
 sleep(0.1)
